@@ -16,7 +16,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 * [`Heart Disease`](https://github.com/francescodisalvo05/HeartDisease)
 
 🏆 Challenges: 
-* `#66DaysOfData` 👷
+* [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
 
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa/)
