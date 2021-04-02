@@ -7,8 +7,8 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
 
 📚 Academic repositories: 
-* [`Machine Learning and Deep Learning`](https://github.com/francescodisalvo05/polito-mldl)  👷
-* [`Distributed Architectures for Big Data processing and analytics `](https://github.com/francescodisalvo05/polito-distributed-architectures) 👷
+* `Machine Learning and Deep Learning`  👷
+* [`Distributed Architectures for Big Data processing and analytics `](https://github.com/francescodisalvo05/polito-distributed-architectures) 
 * [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
 🔨 Personal projects: 
