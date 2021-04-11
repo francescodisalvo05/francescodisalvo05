@@ -6,6 +6,9 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
 
+💻 Experience :
+* Junior Machine Learning Engineer at [`Omdena `](https://omdena.com/) | April 2021 - June 2021 
+
 📚 Academic repositories: 
 * `Machine Learning and Deep Learning`  👷
 * [`Distributed Architectures for Big Data processing and analytics `](https://github.com/francescodisalvo05/polito-distributed-architectures) 
