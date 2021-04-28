@@ -7,7 +7,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
 
 💻 Experience :
-* Junior Machine Learning Engineer at [`Omdena `](https://omdena.com/) | April 2021 - June 2021 
+* Junior Machine Learning Engineer at [`Omdena `](https://omdena.com/) | April 2021 - June 2021 (Freelance)
 
 📚 Academic repositories: 
 * `Machine Learning and Deep Learning`  👷
@@ -15,6 +15,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 * [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
 🔨 Personal projects: 
+* [`Stock Analysis`](https://github.com/daniele21/Stock_Analysis) 👷
 * [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
 * [`Heart Disease`](https://github.com/francescodisalvo05/HeartDisease)
 
