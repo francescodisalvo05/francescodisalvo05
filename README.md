@@ -10,7 +10,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Junior Machine Learning Engineer at [`Omdena `](https://omdena.com/) | April 2021 - June 2021 (Freelance)
 
 📚 Academic repositories: 
-* `Machine Learning and Deep Learning`  👷
+* `Machine Learning and Deep Learning` : Project "Incremental Learning for Semantic Segmentation" 👷
 * [`Distributed Architectures for Big Data processing and analytics `](https://github.com/francescodisalvo05/polito-distributed-architectures) 
 * [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
