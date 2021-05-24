@@ -7,15 +7,16 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
 
 💻 Experience :
-* Junior Machine Learning Engineer at [`Omdena `](https://omdena.com/) | April 2021 - June 2021 (Freelance)
+* Junior Machine Learning Engineer at [`Omdena`](https://omdena.com/) | April 2021 - June 2021 (Volunteer)
 
 📚 Academic repositories: 
-* `Machine Learning and Deep Learning` : Project "Incremental Learning for Semantic Segmentation" 👷
-* [`Distributed Architectures for Big Data processing and analytics `](https://github.com/francescodisalvo05/polito-distributed-architectures) 
+* [`Distributed Architectures for Big Data processing and analytics`](https://github.com/francescodisalvo05/polito-distributed-architectures) 
 * [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
-🔨 Personal projects: 
-* [`Stock Manager`] 👷
+🔨 Projects: 
+* `Incremental Learning for Semantic Segmentation` 👷
+* `Stock Manager` 👷
+* [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
 * [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
 * [`Heart Disease`](https://github.com/francescodisalvo05/HeartDisease)
 
