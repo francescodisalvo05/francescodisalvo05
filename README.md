@@ -18,7 +18,6 @@ I am a Data Science student with a strong passion for data and artificial intell
 * `Stock Manager` 👷
 * [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
 * [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
-* [`Heart Disease`](https://github.com/francescodisalvo05/HeartDisease)
 
 🏆 Challenges: 
 * [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
