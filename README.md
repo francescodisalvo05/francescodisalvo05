@@ -26,3 +26,4 @@ I am a Data Science student with a strong passion for data and artificial intell
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa/)
 * [`francesco.disalvo99@gmail.com`](mailto:francesco.disalvo99@gmail.com)
+* [`Resume`](https://drive.google.com/file/d/19FWfsKlPg_hrvUecTPRihrbAkZqen_dr/view?usp=sharing)
