@@ -16,6 +16,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 🔨 Projects: 
 * `Incremental Learning for Semantic Segmentation` 👷
 * `Stock Manager` 👷
+* [`Bias and Fairness Detector`](https://github.com/francescodisalvo05/bias-fairness-detector)
 * [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
 * [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
 * [`New York AirBnB Price Prediction`](https://github.com/francescodisalvo05/airbnb-price-prediction)
