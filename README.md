@@ -2,6 +2,8 @@
 
 I am a Data Science student with a strong passion for data and artificial intelligence. During my spare time I devour books and expand my horizons by studying always new things. I am fascinated by the world of productivity and investements. Well, I wish I have 48 hours per day, but I have to settle for 24! 
 
+
+
 🎓Academic backgroud: 
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
@@ -28,3 +30,8 @@ I am a Data Science student with a strong passion for data and artificial intell
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa/)
 * [`francesco.disalvo99@gmail.com`](mailto:francesco.disalvo99@gmail.com)
 * [`Resume`](https://drive.google.com/file/d/19FWfsKlPg_hrvUecTPRihrbAkZqen_dr/view?usp=sharing)
+
+<p align="center"> 
+<img width="450"  src="https://github-readme-streak-stats.herokuapp.com?user=francescodisalvo05&theme=dark&hide_border=true" alt="Francesco " /> <br /><br />
+<img  src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Francesco " /> <br />
+</p>
