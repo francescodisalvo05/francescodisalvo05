@@ -3,7 +3,6 @@
 I am a Data Science student with a strong passion for data and artificial intelligence. During my spare time I devour books and expand my horizons by studying always new things. I am fascinated by the world of productivity and investements. Well, I wish I have 48 hours per day, but I have to settle for 24! 
 
 
-
 🎓Academic backgroud: 
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
@@ -17,7 +16,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 
 🔨 Projects: 
 * `Incremental Learning for Semantic Segmentation` 👷
-* `Stock Manager` 👷
+* [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis) 👷
 * [`Bias and Fairness Detector`](https://github.com/francescodisalvo05/bias-fairness-detector)
 * [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
 * [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
