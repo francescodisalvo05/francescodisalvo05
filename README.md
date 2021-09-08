@@ -16,6 +16,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 
 🔨 Projects: 
 * `Incremental Learning for Semantic Segmentation` 👷
+* [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default)
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis)
 * [`Bias and Fairness Detector`](https://github.com/francescodisalvo05/bias-fairness-detector)
 * [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
