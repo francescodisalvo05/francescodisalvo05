@@ -15,7 +15,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 * [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
 🔨 Projects: 
-* `Incremental Learning for Semantic Segmentation` 👷
+* [`Incremental Learning for Semantic Segmentation`](https://github.com/francescodisalvo05/MiB-BiSeNet-DeepInversion)
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default)
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis)
 * [`Bias and Fairness Detector`](https://github.com/francescodisalvo05/bias-fairness-detector)
