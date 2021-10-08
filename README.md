@@ -26,9 +26,12 @@ I am a Data Science student with a strong passion for data and artificial intell
 🏆 Challenges: 
 * [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
 
-📫 Contacts:
-* [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa/)
-* [`francesco.disalvo99@gmail.com`](mailto:francesco.disalvo99@gmail.com)
+📫 Contacts: <br />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francesco.disalvo99@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@francesco.disalvo)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://francescodisalvo05.github.io)
 
 <p align="center"> 
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com?user=francescodisalvo05&theme=dark&hide_border=true" alt="Francesco " /> <br /><br />
