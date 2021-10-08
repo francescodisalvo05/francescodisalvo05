@@ -26,7 +26,7 @@ I am a Data Science student with a strong passion for data and artificial intell
 🏆 Challenges: 
 * [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
 
-📫 Contacts: <br />
+📫 Connect with me: <br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francesco.disalvo99@gmail.com)
