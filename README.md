@@ -10,18 +10,18 @@ I am a Data Science student with a strong passion for data and artificial intell
 💻 Experience :
 * Machine Learning Engineer at [`Omdena`](https://omdena.com/) | April 2021 - June 2021 (Volunteer) | [`Certificate`](https://drive.google.com/file/d/10fQBl_Ka_vNTnCvq0duJIKSCbSVFWkou/view?usp=sharing)
 
-📚 Academic repositories: 
-* [`Distributed Architectures for Big Data processing and analytics`](https://github.com/francescodisalvo05/polito-distributed-architectures) 
-* [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
-
-🔨 Projects: 
+🔨 Most interesting projects: 
 * [`Incremental Learning for Semantic Segmentation`](https://github.com/francescodisalvo05/incremental-learning-semantic-segmentation)
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default)
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis)
 * [`Bias and Fairness Detector`](https://github.com/francescodisalvo05/bias-fairness-detector)
 * [`Wine Quality Prediction`](https://github.com/francescodisalvo05/wine-quality-prediction)
-* [`Black Lives Matter - Sentiment Analysis`](https://github.com/francescodisalvo05/Twitter-Black-Lives-Matter-SA)
-* [`New York AirBnB Price Prediction`](https://github.com/francescodisalvo05/airbnb-price-prediction)
+
+📚 Academic repositories: 
+* [`Deep Natural Language Processing`](https://github.com/francescodisalvo05/polito-deep-nlp)
+* [`Machine Learning for IoT`](https://github.com/francescodisalvo05/polito-machine-learning-for-IoT)
+* [`Distributed Architectures for Big Data processing and analytics`](https://github.com/francescodisalvo05/polito-distributed-architectures) 
+* [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
 
 🏆 Challenges: 
 * [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
@@ -29,7 +29,6 @@ I am a Data Science student with a strong passion for data and artificial intell
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescodisalvo-pa/)
 * [`francesco.disalvo99@gmail.com`](mailto:francesco.disalvo99@gmail.com)
-* [`Resume`](https://drive.google.com/file/d/19FWfsKlPg_hrvUecTPRihrbAkZqen_dr/view?usp=sharing)
 
 <p align="center"> 
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com?user=francescodisalvo05&theme=dark&hide_border=true" alt="Francesco " /> <br /><br />
