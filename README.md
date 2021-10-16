@@ -7,9 +7,6 @@ I am a Data Science student with a strong passion for data and artificial intell
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
 * Bachelor of Science in Computer Engineering at `Università degli studi di Palermo` 
 
-💻 Experience :
-* Machine Learning Engineer at [`Omdena`](https://omdena.com/) | April 2021 - June 2021 (Volunteer) | [`Certificate`](https://drive.google.com/file/d/10fQBl_Ka_vNTnCvq0duJIKSCbSVFWkou/view?usp=sharing)
-
 🔨 Most interesting projects: 
 * [`Incremental Learning for Semantic Segmentation`](https://github.com/francescodisalvo05/incremental-learning-semantic-segmentation)
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default)
