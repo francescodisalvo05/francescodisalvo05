@@ -12,11 +12,18 @@ I am a Data Science student with a strong passion for data and artificial intell
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default)
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis)
 
-📚 Academic repositories: 
-* [`Deep Natural Language Processing`](https://github.com/francescodisalvo05/polito-deep-nlp)
-* [`Machine Learning for IoT`](https://github.com/francescodisalvo05/polito-machine-learning-for-IoT)
-* [`Distributed Architectures for Big Data processing and analytics`](https://github.com/francescodisalvo05/polito-distributed-architectures) 
-* [`Data Science Lab: Process and Methods`](https://github.com/francescodisalvo05/polito-data-science-lab)
+<details>
+<summary>📚 Academic repositories: </summary>
+<br> 
+  <ul>
+    <li><a href="https://github.com/francescodisalvo05/polito-deep-nlp">Deep Natural Language Processing</a></li>
+    <li><a href="https://github.com/francescodisalvo05/polito-machine-learning-for-IoT">Machine Learning for IoT</a></li>
+    <li><a href="https://github.com/francescodisalvo05/polito-distributed-architectures">Distributed Architectures for Big Data processing and analytics</li>
+    <li><a href="https://github.com/francescodisalvo05/polito-data-science-lab)">Data Science Lab: Process and Methods</a></li>
+  </ul>
+</details>
+
+
 
 🏆 Challenges: 
 * [`#66DaysOfData`](https://github.com/francescodisalvo05/66DaysOfData)
