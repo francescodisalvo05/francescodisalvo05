@@ -14,7 +14,7 @@ class Francesco:
 ```
 
 <br />
-<p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects: </b> <p>
+<p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
 
