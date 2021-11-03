@@ -8,7 +8,7 @@ class Francesco:
     self.name = 'Francesco'
     self.surname = 'Di Salvo'
     self.education = ['PoliTo','Unipa']
-    self.experience = ['PoliTo','Omdena']
+    self.experience = ['AIKO','PoliTo','Omdena']
     self.interests = ['NLP','CV', 'Finance', 'Healthcare', 'Space']
     self.hobbies = ['Fitness','Reading']
 ```
