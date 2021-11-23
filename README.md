@@ -17,7 +17,7 @@ class Francesco:
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
-
+* [`Personal blog`](https://francescodisalvo05.github.io) : during my spare weekends I enjoy writing blogposts about Data Science & Machine Learning! 
 * [`Incremental Learning for Semantic Segmentation`](https://github.com/francescodisalvo05/incremental-learning-semantic-segmentation) : leverage the catastrophic forgetting through **model inversion**
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default) : in depth analysis of **Random Forest**, **SVM**, **KNN** and **Logistic Regression**
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis) : web app that extracts (near) **real time** stock news and predicts their **sentiments**
