@@ -7,10 +7,10 @@ class Francesco:
   def __init__(self):
     self.name = 'Francesco'
     self.surname = 'Di Salvo'
-    self.education = ['PoliTo','Unipa']
-    self.experience = ['AIKO','PoliTo','Omdena']
-    self.interests = ['NLP','CV', 'Finance', 'Healthcare', 'Space']
-    self.hobbies = ['Fitness','Reading']
+    self.education = ['PoliTo', 'Unipa']
+    self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
+    self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
+    self.hobbies = ['Fitness', 'Reading', 'Cooking']
 ```
 
 <br />
