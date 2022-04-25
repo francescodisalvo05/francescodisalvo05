@@ -17,7 +17,7 @@ class Francesco:
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
-* [`Smart Surveillance on RaspberryPi`](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi) : indoor video surveillance system capable of recognizing the presence of a human intrusion through audio and image classification
+* [`Smart Surveillance on RaspberryPi`](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi) : indoor video surveillance system through audio and image classification on Raspberry
 * [`stAI tuned`](https://www.linkedin.com/company/stai-tuned/) : LinkedIn page where we publish daily research bites 
 * [`Personal blog`](https://medium.com/@francesco.disalvo) : during my spare weekends I enjoy writing blogposts about Data Science & Machine Learning! 
 * [`Incremental Learning for Semantic Segmentation`](https://github.com/francescodisalvo05/incremental-learning-semantic-segmentation) : leverage the catastrophic forgetting through **model inversion**
