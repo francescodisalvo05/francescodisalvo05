@@ -10,9 +10,18 @@ class Francesco:
     self.education = ['PoliTo', 'Unipa']
     self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
     self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Fitness', 'Reading', 'Cooking']
+    self.hobbies = ['Run', 'Reading', 'Cooking']
 ```
+<br />
+  
+💻 I'm Francesco Di Salvo, a `Data Science and Engineering student` at Politecnico di Torino. I am currently working on my Master Thesis about breast cancer diagnosis through CT image analysis at `Radboud Univerisity Medical Center` (Nijmegen, NL). Before that I was a Deep Learning Engineer Intern at `AIKO - Autonomous Space Mission`, where I worked on monocular visual odometry in hostile environments. 
 
+Moreover...
+* 🏃🏼 I'm working on my 5 and 10 km run 
+* 🧑🏼‍🍳 I'm exporting the Italian cuisine here in The Netherlands
+* 📚 I'm currently reading Atomic Habits, by James Clear
+  
+  
 <br />
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
@@ -24,16 +33,6 @@ class Francesco:
 * [`Credit card default`](https://github.com/francescodisalvo05/credit-card-default) : in depth analysis of **Random Forest**, **SVM**, **KNN** and **Logistic Regression**
 * [`Financial Sentiment Analysis`](https://github.com/sicilian-scientists/financial-sentiment-analysis) : web app that extracts (near) **real time** stock news and predicts their **sentiments**
   
-<details>
-<summary>📚 Academic repositories: </summary>
-<br> 
-  <ul>
-    <li><a href="https://github.com/francescodisalvo05/polito-deep-nlp">Deep Natural Language Processing</a></li>
-    <li><a href="https://github.com/francescodisalvo05/polito-machine-learning-for-IoT">Machine Learning for IoT</a></li>
-    <li><a href="https://github.com/francescodisalvo05/polito-distributed-architectures">Distributed Architectures for Big Data processing and analytics</li>
-    <li><a href="https://github.com/francescodisalvo05/polito-data-science-lab)">Data Science Lab: Process and Methods</a></li>
-  </ul>
-</details>
 
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
