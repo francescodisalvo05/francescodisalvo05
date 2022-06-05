@@ -18,8 +18,8 @@ class Francesco:
 
 Moreover...
 * 🏃🏼 I'm working on my 5 and 10 km run 
+* 📚 I'm currently writing a comprehensive guide on Natural Language Processing
 * 🧑🏼‍🍳 I'm exporting the Italian cuisine here in The Netherlands
-* 📚 I'm currently reading Atomic Habits, by James Clear
   
   
 <br />
