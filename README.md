@@ -26,6 +26,7 @@ Moreover...
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
+* [`Hybrid Financial Summarization through RL`](https://github.com/francescodisalvo05/nlp-financial-summarization-rl) : reproduced solution from FNS challenge e proposed further ablation studies.
 * [`Smart Surveillance on RaspberryPi`](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi) : audio and image classification deployed on Raspberry
 * [`stAI tuned`](https://www.linkedin.com/company/stai-tuned/) : LinkedIn page where we publish daily research bites 
 * [`Personal blog`](https://medium.com/@francesco.disalvo) : during my spare weekends I enjoy writing blogposts about Data Science & Machine Learning! 
