@@ -10,23 +10,23 @@ class Francesco:
     self.education = ['PoliTo', 'Unipa']
     self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
     self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Run', 'Reading', 'Cooking']
+    self.hobbies = ['Powerlifting', 'Cycling', 'Reading', 'Cooking']
 ```
 <br />
   
-💻 I'm Francesco Di Salvo, a `Data Science and Engineering student` at Politecnico di Torino. I am currently working on my Master Thesis about breast cancer diagnosis through CT image analysis at `Radboud Univerisity Medical Center` (Nijmegen, NL). Before that I was a Deep Learning Engineer Intern at `AIKO - Autonomous Space Mission`, where I worked on monocular visual odometry in hostile environments. 
+💻 I'm Francesco Di Salvo, a `Data Science and Engineering student` at Politecnico di Torino. I am currently working on my Master Thesis about breast cancer diagnosis through CT image analysis at `Radboud Univerisity Medical Center` (Nijmegen, NL). Before that I was a Deep Learning Engineer Intern at `AIKO - Autonomous Space Mission`, where I worked on monocular visual odometry in hostile environments. In my free time I write contents for `stAI tuned` , a community that I founded with some good friends! 
 
-Moreover...
-* 🏃🏼 I'm working on my 5 and 10 km run 
-* 📚 I'm currently writing a comprehensive guide on Natural Language Processing
-* 🧑🏼‍🍳 I'm exporting the Italian cuisine here in The Netherlands
+Moreover... 
+* 📚 I'm working on [stAI tuned](https://www.linkedin.com/search/results/all/?keywords=stai%20tuned&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=7f0cdea8-e19b-4aad-9f7b-77675b2db6fe&sid=WFJ)'s blog 
+* 🏋🏼 🚴🏼 I'm working on my strength and my resistence 
+* 🧑🏼‍🍳 I'm trying to improve my cooking skills
   
   
 <br />
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
-* [`Hybrid Financial Summarization through RL`](https://github.com/francescodisalvo05/nlp-financial-summarization-rl) : reproduced solution from FNS challenge e proposed further ablation studies.
+* [`Hybrid Financial Summarization through RL`](https://github.com/francescodisalvo05/nlp-financial-summarization-rl) : reproduced solution from FNS challenge and proposed further ablation studies.
 * [`Smart Surveillance on RaspberryPi`](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi) : audio and image classification deployed on Raspberry
 * [`stAI tuned`](https://www.linkedin.com/company/stai-tuned/) : LinkedIn page where we publish daily research bites 
 * [`Personal blog`](https://medium.com/@francesco.disalvo) : during my spare weekends I enjoy writing blogposts about Data Science & Machine Learning! 
