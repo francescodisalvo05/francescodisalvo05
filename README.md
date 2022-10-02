@@ -26,6 +26,7 @@ Moreover...
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
+* [`Monte Carlo Dropout`](https://github.com/francescodisalvo05/uncertainty-monte-carlo-dropout): Explained the limits of Bayesian inference and its most popular alternative: the Monte Carlo dropout.
 * [`Hybrid Financial Summarization through RL`](https://github.com/francescodisalvo05/nlp-financial-summarization-rl) : reproduced solution from FNS challenge and proposed further ablation studies.
 * [`Smart Surveillance on RaspberryPi`](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi) : audio and image classification deployed on Raspberry
 * [`stAI tuned`](https://www.linkedin.com/company/stai-tuned/) : LinkedIn page where we publish daily research bites 
