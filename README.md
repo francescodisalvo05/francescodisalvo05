@@ -14,7 +14,7 @@
 * BSc in Computer Engineering @ UniPa
 
 ### ⌨️ Projects
-* 🔗  &nbsp; [stAItuned](https://staituned.com/)
+* 🔗  &nbsp; [stAI tuned](https://github.com/stAItuned) [[blog](https://staituned.com/)]
 * 🎲  &nbsp; [Monte Carlo Dropout](https://github.com/francescodisalvo05/uncertainty-monte-carlo-dropout)
 * 🪶  &nbsp; [Hybrid Financial Summarization through RL](https://github.com/francescodisalvo05/nlp-financial-summarization-rl)
 * 📸  &nbsp; [Smart Surveillance on RaspberryPi](https://github.com/francescodisalvo05/smart-surveillance-raspberrypi)
