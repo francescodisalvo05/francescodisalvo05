@@ -6,7 +6,7 @@
 
 ### 💻 Experience
 * 🌊  &nbsp; Research Intern @ [NATO STO-CMRE](https://www.cmre.nato.int/)
-* 🏥  &nbsp; Master Thesis @ [AXTI Lab](http://axti.radboudimaging.nl/)
+* 🏥  &nbsp; Research Intern @ [AXTI Lab](http://axti.radboudimaging.nl/)
 * 🚀  &nbsp; Deep Learning Engineer Intern @ [AIKO Space](https://www.aikospace.com/)
 
 ### 🎓 Education
