@@ -6,8 +6,12 @@
 
 ### 💻 Experience
 * 🌊  &nbsp; Research Intern @ [NATO STO-CMRE](https://www.cmre.nato.int/)
-* 🏥  &nbsp; Research Intern @ [AXTI Lab](http://axti.radboudimaging.nl/)
-* 🚀  &nbsp; Deep Learning Engineer Intern @ [AIKO Space](https://www.aikospace.com/)
+* 🏥  &nbsp; Prev. Research Intern @ [AXTI Lab](http://axti.radboudimaging.nl/)
+* 🚀  &nbsp; Prev. Deep Learning Engineer Intern @ [AIKO Space](https://www.aikospace.com/)
+
+### 📈 Work in progress
+* 📷 &nbsp; I am studying Computer Vision from [Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)'s course
+* ✍🏼 &nbsp; I am working on a website with Machine Learning illustrations! 
 
 ### 🎓 Education
 * MSc in Data Science and Engineering @ PoliTo
