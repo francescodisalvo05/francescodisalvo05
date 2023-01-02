@@ -9,15 +9,12 @@
 * 🏥  &nbsp; Prev. Research Intern @ [AXTI Lab](http://axti.radboudimaging.nl/)
 * 🚀  &nbsp; Prev. Deep Learning Engineer Intern @ [AIKO Space](https://www.aikospace.com/)
 
-### 📈 Work in progress
-* 📷 &nbsp; I am studying Computer Vision from [Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)'s course
-* ✍🏼 &nbsp; I am working on a website with Machine Learning illustrations! 
-
 ### 🎓 Education
 * MSc in Data Science and Engineering @ PoliTo
 * BSc in Computer Engineering @ UniPa
 
 ### ⌨️ Projects
+* ✍🏼  &nbsp; [Illustrated Machine Learning](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io) [[website](https://illustrated-machine-learning.github.io/)] 🆕
 * 🔗  &nbsp; [stAI tuned](https://github.com/stAItuned) [[blog](https://staituned.com/)]
 * 🎲  &nbsp; [Monte Carlo Dropout](https://github.com/francescodisalvo05/uncertainty-monte-carlo-dropout)
 * 🪶  &nbsp; [Hybrid Financial Summarization through RL](https://github.com/francescodisalvo05/nlp-financial-summarization-rl)
