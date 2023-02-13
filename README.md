@@ -25,7 +25,6 @@
 
 ### 🙋🏼‍♂️ About me
 * 🏋🏼‍♂️  &nbsp; Gym addicted
-* 📖  &nbsp; I'm reading "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
 * 🧑🏼‍🍳  &nbsp; I'm working on my cooking skills
 
 
